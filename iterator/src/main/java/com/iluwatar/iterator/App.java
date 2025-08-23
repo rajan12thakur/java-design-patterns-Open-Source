@@ -22,7 +22,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.iluwatar.iterator;
+package com.iluwatar.iterator; 
 
 import static com.iluwatar.iterator.list.ItemType.ANY;
 import static com.iluwatar.iterator.list.ItemType.POTION;
